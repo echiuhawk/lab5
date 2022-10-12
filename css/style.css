@@ -1,0 +1,63 @@
+body {
+  background-color: thistle;
+  font-family: Georgia;
+}
+
+tr, td {
+  text-align: center;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+th {
+  border: 10px solid;
+  border-color: black;
+}
+
+td {
+  border: 3px solid;
+  border-color: crimson;
+}
+
+h3 {
+  text-align: center;
+}
+
+#image {
+  width: 360px;
+  height: 360px;
+}
+
+#heading {
+  font-weight: bold;
+  font-size: large;
+  background-color: rgb(240, 106, 150);
+}
+
+#earth {
+  color: #800000;
+  font-size: large;
+}
+
+#jupiter {
+  color: rgb(165,42,42);
+  font-size: large;
+}
+
+#mercury {
+  color: #D2691E;
+  font-size: large;
+}
+
+#venus {
+  color: #8B4513;
+  font-size: large;
+}
+
