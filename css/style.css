@@ -1,6 +1,7 @@
 body {
   background-color: thistle;
   font-family: Georgia;
+  font-size: large;
 }
 
 tr, td {
@@ -30,7 +31,22 @@ h3 {
   text-align: center;
 }
 
-#image {
+#e {
+  width: 360px;
+  height: 360px;
+}
+
+#j {
+  width: 360px;
+  height: 360px;
+}
+
+#m {
+  width: 360px;
+  height: 360px;
+}
+
+#v {
   width: 360px;
   height: 360px;
 }
